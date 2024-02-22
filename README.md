@@ -19,3 +19,4 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
 ## Svolgimento
 1. Utilizzare un ciclo *for* per stampare in console i numeri da 1 a 100.
 2. Inserire le varie condizioni per i multipli di 3, di 5 e di 3 e 5 insieme. Per sapere se un numero è divisibile per un altro possiamo usare un modulo *%*.
+3. (Bonus) Stampare nel DOM il relativo blocco in base alla condizione.
